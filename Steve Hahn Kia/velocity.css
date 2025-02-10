@@ -4254,7 +4254,7 @@ ul.breadcrumbs {
 	display: none;
 }
 
-.img-responsive {
+#velocity .img-responsive {
 	width: 100%;
 	height: auto;
 }
