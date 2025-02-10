@@ -4244,7 +4244,7 @@
 	position: absolute;
 	bottom: 0;
 	height: 100%;
-	width: 90%;
+	width: 10%;
 	content: "";
 	background: linear-gradient(to top, white 5%, rgba(255, 255, 255, 0) 25%);
 	pointer-events: none;
