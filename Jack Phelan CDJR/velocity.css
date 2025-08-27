@@ -10,11 +10,6 @@
 	text-decoration: underline;
 }
 
-#velocity .img-responsive {
-	width: 100%;
-	height: auto;
-}
-
 #velocity a:hover,
 #velocity a:focus {
 	color: #C00000;
@@ -4241,4 +4236,9 @@
 
 ul.breadcrumbs {
 	display: none;
+}
+
+.img-responsive {
+	width: 100%;
+	height: auto;
 }
